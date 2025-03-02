@@ -1,0 +1,11 @@
+Inputan untuk cpp, java, dan python memiliki format yang sama :
+
+1
+001 Baju_KucingGarong 912000 8 Baju RajutKuri Pink Kucing XL Adidas
+1
+002 Baju_Kelinci 60000 8 Hoodie Fleece MerahMuda Kelinci S Puma
+1
+003B4 Baju_SapiPanggang 600 90 Kemeja Plastik BiruTuaBanget Sapi XS Chanel
+2
+
+maka program akan menambahkan 3 data dari inputan user kemudian menampilkan hasilnya dalam tabel yang dinamis
