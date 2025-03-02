@@ -9,3 +9,5 @@ Inputan untuk cpp, java, dan python memiliki format yang sama :
 2
 
 maka program akan menambahkan 3 data dari inputan user kemudian menampilkan hasilnya dalam tabel yang dinamis
+
+Untuk PHP data ditambahkan melalui form yang sudah tersedia 
